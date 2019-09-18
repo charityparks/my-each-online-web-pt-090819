@@ -7,4 +7,4 @@ def my_each(array)
   array
 end
 
-#
+#you want to yield is the array index represented by the counter
